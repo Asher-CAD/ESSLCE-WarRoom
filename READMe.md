@@ -665,7 +665,6 @@ The project therefore distinguishes between:
 - licensed educational resources
 - copyrighted third-party material
 
-See the repository's licensing and attribution documentation for details.
 
 ---
 
