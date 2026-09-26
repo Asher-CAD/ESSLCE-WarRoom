@@ -1,0 +1,11 @@
+# Hide environment variables and private API keys
+.env
+.env.local
+.env.youtube
+
+# Hide node modules package folder
+node_modules/
+
+# Hide local textbook storage directories
+storage/textbooks/
+*.pdf
